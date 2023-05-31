@@ -58,6 +58,12 @@ switch ($url) {
         ];
         include('view/admin/pasien/form-tambah-pasien.php');
         break;
+    case "header-kas":
+        $data = [
+            "title" => "KAS"
+        ];
+        include('view/admin/transaksi/index.php');
+        break;
     case "logout":
         session_start();
         if (!empty($_SESSION["username"])) {

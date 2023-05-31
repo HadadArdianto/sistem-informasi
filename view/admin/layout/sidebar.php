@@ -100,9 +100,9 @@
                     </ul>
                 </li>
                 <li class="sidebar-item">
-                    <a href="#" class="sidebar-link">
+                    <a href="header-kas" class="sidebar-link">
                         <i class="bi bi-grid-1x2-fill"></i>
-                        <span>Tentang Kami</span>
+                        <span>Header KAS</span>
                     </a>
                 </li>
                 <li class="sidebar-item">
